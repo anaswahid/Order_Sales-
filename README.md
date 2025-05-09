@@ -69,9 +69,7 @@ It is designed for executive-level decision-making and data-driven strategy deve
 ## 🧠 How to Use
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/global-sales-dashboard.git
-    ```
+  
 2. Open the `sales_dashboard.pbix` file in Power BI Desktop
 3. Alternatively, view the static dashboard in `dashboard.png`
 4. Optionally, load the dataset from `sales_data.xlsx` (if included)
@@ -93,4 +91,4 @@ It is designed for executive-level decision-making and data-driven strategy deve
 ```bash
 ├── README.md
 
-├── sales_dashboard.pbix  # Power BI source file (if applicable)
+├── ordersales.pbix  
